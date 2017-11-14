@@ -1,16 +1,12 @@
 {
-  "name": "skeleton-framework",
+  "name": "sassy-skeleton",
   "version": "1.1.1",
   "license": "MIT",
   "homepage": "https://github.com/skeleton-framework/skeletonframework#readme",
-  "description": "A simple responsive framework for mobile friendly development.",
-  "author": "Skeleton Framework",
+  "description": "A Sassified version of Skeleton Framekwork.",
+  "author": "Andrew Bash",
   "contributors": [
-    "Dave Gamache",
-    "Gary DeLaney",
-    "Ben Hinchley",
-    "Nick Lorenson",
-    "Daniel Oltmanns"
+    "Andrew Bash"
   ],
   "main": "index.js",
   "scripts": {
@@ -26,16 +22,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/skeleton-framework/skeleton-framework.git"
+    "url": "https://github.com/andrewbash/sassy-skeleton.git"
   },
   "bugs": {
-    "url": "https://github.com/skeleton-framework/skeleton-framework/issues"
+    "url": "https://github.com/andrewbash/sassy-skeleton/issues"
   },
   "keywords": [
     "css",
     "framework",
     "skeleton",
-    "skeleton-framework"
+    "skeleton-framework",
+    "sassy-skeleton"
   ],
   "devDependencies": {
     "live-server": "^0.9.2",

@@ -1,14 +1,15 @@
 {
-  "name": "skeleton-framework",
-  "description": "A simple responsive framework for mobile friendly development.",
+  "name": "sassy-framework",
+  "description": "A Sassified version of Skeleton Framework",
   "main": "dist/skeleton.css",
-  "authors": "Gary DeLaney <gld1982ltd@gmail.com>",
+  "authors": "Andrew Bash <andrew@andrewbash.com>",
   "license": "MIT",
   "keywords": [
     "css",
     "framework",
     "skeleton",
-    "skeleton-framework"
+    "skeleton-framework",
+    "sassy-skeleton"
   ],
   "homepage": "https://github.com/skeleton-framework/skeleton-framework",
   "ignore": [
